@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erickson Sterling Peña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***-->
-## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="30px">&nbsp;***About Me***
+## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp;***About Me***
 
 Welcome! My name is Erickson Sterling Peña, and I am passionate about web development and continuously improving my technical skills. I have a strong foundation in JavaScript, HTML, CSS, and Git. Currently, I am learning ReactJS and SASS to expand my skill set in modern web development tools.
 
