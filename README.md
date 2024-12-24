@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Erickson Sterling Peña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
-<!--## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***-->
+<h1 align="center" style="font-family: 'Poppins', sans-serif;">Hi, I'm Erickson Sterling Peña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp;***About Me***
 
-Welcome! My name is Erickson Sterling Peña, and I am passionate about web development and continuously improving my technical skills. I have a strong foundation in JavaScript, HTML, CSS, and Git. Currently, I am learning ReactJS and SASS to expand my skill set in modern web development tools.
+<div style="font-family: 'Poppins', sans-serif;">
+<p>Welcome! My name is Erickson Sterling Peña, and I am passionate about web development and continuously improving my technical skills. I have a strong foundation in JavaScript, HTML, CSS, and Git. Currently, I am learning ReactJS and SASS to expand my skill set in modern web development tools.</p>
 
-I thrive in collaborative environments and enjoy working on projects that challenge me to think critically and innovate. I am eager to contribute to teams where I can grow professionally while delivering value through my work. Beyond coding, I love exploring new technologies and embracing opportunities to learn.
+<p>I thrive in collaborative environments and enjoy working on projects that challenge me to think critically and innovate. I am eager to contribute to teams where I can grow professionally while delivering value through my work. Beyond coding, I love exploring new technologies and embracing opportunities to learn.</p>
 
 ### 🌟 **Key Highlights:**
 - 🚀 Currently expanding my knowledge in **ReactJS** and **SASS**.
@@ -13,7 +15,7 @@ I thrive in collaborative environments and enjoy working on projects that challe
 - 💬 Always happy to share my knowledge and help others in the tech community.
 - 🌍 Outside of tech, I enjoy spending time in nature, listening to music, and exploring creative hobbies.
 
-<!-- - 📫 Reach out to me at: **[Your Email or Contact Link]** -->
+</div>
 </br>
 
 ## 🛠️ My Favorite Tools
@@ -43,6 +45,7 @@ I thrive in collaborative environments and enjoy working on projects that challe
 </p>
 </br>
 
+
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/Derkopath">
@@ -50,3 +53,6 @@ I thrive in collaborative environments and enjoy working on projects that challe
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Derkopath&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<!--## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***-->
+<!-- - 📫 Reach out to me at: **[Your Email or Contact Link]** -->
