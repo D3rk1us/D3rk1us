@@ -7,9 +7,9 @@ Welcome! My name is Erickson Sterling Peña, and I am passionate about web devel
 I thrive in collaborative environments and enjoy working on projects that challenge me to think critically and innovate. I am eager to contribute to teams where I can grow professionally while delivering value through my work. Beyond coding, I love exploring new technologies and embracing opportunities to learn.
 
 ### 🌟 **Key Highlights:**
-- 🌱 Currently expanding my knowledge in **ReactJS** and **SASS**.
-- 👯 Open to collaborating on web development and open-source projects.
-- ✔ Always happy to share my knowledge and help others in the tech community.
+- 🚀 Currently expanding my knowledge in **ReactJS** and **SASS**.
+- 🤝 Open to collaborating on web development and open-source projects.
+- 💬 Always happy to share my knowledge and help others in the tech community.
 - 🌍 Outside of tech, I enjoy spending time in nature, listening to music, and exploring creative hobbies.
 
 <!-- - 📫 Reach out to me at: **[Your Email or Contact Link]** -->
