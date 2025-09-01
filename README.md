@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
 <h1 align="center" style="font-family: 'Poppins', sans-serif;">Hola, soy Erickson Sterling Peña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -56,3 +56,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=D3rk1us&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->
