@@ -4,8 +4,7 @@
 
 Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la seguridad informática.<br><br>Actualmente practico sobre cómo identificar vulnerabilidades web y prevenirlas desde el código, mediante la plataforma Hack The Box Academy, debido a que mi meta es combinar el desarrollo con la ciberseguridad para crear aplicaciones más seguras y entender cómo proteger mejor los entornos en los que trabajo.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonsterling) 
@@ -22,6 +21,9 @@ Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la segu
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=D3rk1us&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
