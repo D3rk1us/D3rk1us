@@ -1,7 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; About Me:
-Soy estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la seguridad informática.<br><br>Actualmente practico sobre cómo identificar vulnerabilidades web y prevenirlas desde el código, mediante la plataforma Hack The Box Academy, debido a que mi meta es combinar el desarrollo con la ciberseguridad para crear aplicaciones más seguras y entender cómo proteger mejor los entornos en los que trabajo.
+
+Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la seguridad informática.<br><br>Actualmente practico sobre cómo identificar vulnerabilidades web y prevenirlas desde el código, mediante la plataforma Hack The Box Academy, debido a que mi meta es combinar el desarrollo con la ciberseguridad para crear aplicaciones más seguras y entender cómo proteger mejor los entornos en los que trabajo.
 
 
 ## 🌐 Socials:
