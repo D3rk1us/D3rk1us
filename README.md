@@ -7,7 +7,7 @@ Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la segu
 <br/>
 
 ## 🧠 Codewars Progress
-![Codewars](https://www.codewars.com/users/D3rk1us)
+![Codewars](https://www.codewars.com/users/D3rk1us/badges/large)
 
 <br/>
 
