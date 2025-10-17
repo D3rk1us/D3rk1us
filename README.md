@@ -6,6 +6,9 @@ Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la segu
 
 <br/>
 
+### 🧠 Codewars Progress
+![Codewars](https://www.codewars.com/users/TU_USUARIO/badges/large)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonsterling) 
 
