@@ -8,8 +8,6 @@
 
 <p>Comencé mi camino en la programación con Java, lo que me dio una base sólida en programación orientada a objetos.</p>
 
-<br/>
-
 ### 🌟 **Puntos Destacados:**
 - 📱 Enfocado en el desarrollo de apps **Web con PHP**.
 - ☕ Inicié en la programación con **Java**, fortaleciendo mis fundamentos en POO.
