@@ -8,8 +8,10 @@ Estudiante de Desarrollo de Aplicaciones Web al que también le apasiona la segu
 
 ## 🧠 Codewars Progress
 <br/>
+
 ![Codewars](https://www.codewars.com/users/D3rk1us/badges/large)
 
+<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonsterling) 
