@@ -31,7 +31,7 @@
 
 Actualmente solo utilizo:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ericksonsterling) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d3rk1us) 
 
 <br/>
 
