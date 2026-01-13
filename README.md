@@ -6,19 +6,11 @@
 
 <p>Cuento con experiencia práctica en entornos Linux, scripting y desarrollo backend, y estoy consolidando conocimientos en seguridad aplicada al ciclo de vida del software (SDLC), infraestructura y pipelines de despliegue.</p>
 
-## 🎯 Enfoque Profesional
-
 <p> Mi objetivo es integrar seguridad, automatización y operación desde las primeras fases del desarrollo, alineándome con prácticas DevSecOps: </p>
 
-<li>Seguridad como parte del diseño, no como etapa final.</li>
-
-<li>Automatización de tareas operativas y controles de seguridad.</li>
-
-<li>Infraestructura reproducible y auditable.</li>
-
-<li>Mentalidad de mejora continua y reducción de riesgo.</li>
-
 ## 🛠️ Tecnologías y Conocimientos
+
+<br/>
 
 ### Sistemas y Operación
 
@@ -35,8 +27,6 @@
 ### Desarrollo y Automatización
 
 🐍 Python para scripts, tooling y automatización.
-
-🐘 PHP (backend) y comprensión del ciclo de vida de aplicaciones web.
 
 ☕ Base sólida en Java y Programación Orientada a Objetos.
 
@@ -56,29 +46,18 @@
 
 #### 📂 Qué encontrarás en este repositorio
 
-<p>Este repositorio documenta mi evolución técnica y contiene:</p>
+<ul>
+  <li>Scripts de automatización para administración y seguridad.</li>
 
-<li>Scripts de automatización para administración y seguridad.</li>
+  <li>Herramientas propias orientadas a análisis, monitoreo o hardening.</li>
 
-<li>Herramientas propias orientadas a análisis, monitoreo o hardening.</li>
+  <li>Pruebas de concepto relacionadas con seguridad e infraestructura</li>
 
-<li>Pruebas de concepto relacionadas con seguridad e infraestructura</li>
-
-<li>Documentación de aprendizaje y buenas prácticas.</li>
-
-<br/>
-
-### 🧠 Filosofía de Trabajo
+  <li>Documentación de aprendizaje y buenas prácticas.</li>
+</ul>
 
 <br/>
 
-<li>Seguridad por diseño (Security by Design).</li>
-
-<li>Automatizar antes que repetir.</li>
-
-<li>Entender el sistema antes de protegerlo.</li>
-
-<li>Aprender construyendo y documentando.</li>
 </div>
 
 <br/>
