@@ -2,21 +2,86 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; Sobre Mi:
 
-<p>¡Bienvenido! Mi nombre es Erickson Sterling Peña. Actualmente soy estudiante de Desarrollo de Aplicaciones Web y en mi tiempo libre voy aprendiendo cosas de ciberseguridad.</p>
+<p>Mi nombre es Erickson Sterling Peña. Actualmente me encuentro en un proceso de transición profesional desde Administración de Sistemas Linux (SysAdmin) hacia un perfil DevSecOps, con foco en automatización, seguridad y operación de aplicaciones modernas.</p>
 
-<p>Me enfoco en tecnologías como <strong>PHP</strong> (backend), <strong>Python</strong> y <strong>Bash</strong> (scripting).</p>
+<p>Cuento con experiencia práctica en entornos Linux, scripting y desarrollo backend, y estoy consolidando conocimientos en seguridad aplicada al ciclo de vida del software (SDLC), infraestructura y pipelines de despliegue.</p>
 
-<p>Comencé mi camino en la programación con Java, lo que me dio una base sólida en programación orientada a objetos.</p>
+## 🎯 Enfoque Profesional
 
-### 🌟 **Puntos Destacados:**
-- 📱 Enfocado en el desarrollo de apps **Web con PHP**.
-- ☕ Inicié en la programación con **Java**, fortaleciendo mis fundamentos en POO.
-- 🐧 Familiarizado con entornos **Linux** y automatización usando **Bash**.
-- 🐍 Con conocimientos en **Python** para scripts y pequeñas herramientas.
-- 🧠 Apasionado por resolver problemas y aprender nuevas tecnologías.
+<p> Mi objetivo es integrar seguridad, automatización y operación desde las primeras fases del desarrollo, alineándome con prácticas DevSecOps: </p>
+
+<li>Seguridad como parte del diseño, no como etapa final.</li>
+
+<li>Automatización de tareas operativas y controles de seguridad.</li>
+
+<li>Infraestructura reproducible y auditable.</li>
+
+<li>Mentalidad de mejora continua y reducción de riesgo.</li>
+
+## 🛠️ Tecnologías y Conocimientos
+
+### Sistemas y Operación
+
+🐧 Administración de sistemas Linux.
+
+🔧 Automatización y scripting con Bash.
+
+📦 Gestión de servicios, permisos, procesos y logs.
+
+🧠 Enfoque orientado a estabilidad, observabilidad y hardening.
+
+<br/>
+
+### Desarrollo y Automatización
+
+🐍 Python para scripts, tooling y automatización.
+
+🐘 PHP (backend) y comprensión del ciclo de vida de aplicaciones web.
+
+☕ Base sólida en Java y Programación Orientada a Objetos.
+
+<br/>
+
+### Seguridad y DevSecOps (en progreso)
+
+🔐 Fundamentos de ciberseguridad aplicada a sistemas y aplicaciones
+
+🔍 Análisis de logs, detección de comportamientos anómalos
+
+⚙️ Integración de controles de seguridad en flujos automatizados
+
+📚 Aprendizaje continuo en prácticas DevSecOps
+
+<br/>
+
+#### 📂 Qué encontrarás en este repositorio
+
+<p>Este repositorio documenta mi evolución técnica y contiene:</p>
+
+<li>Scripts de automatización para administración y seguridad.</li>
+
+<li>Herramientas propias orientadas a análisis, monitoreo o hardening.</li>
+
+<li>Pruebas de concepto relacionadas con seguridad e infraestructura</li>
+
+<li>Documentación de aprendizaje y buenas prácticas.</li>
+
+<br/>
+
+### 🧠 Filosofía de Trabajo
+
+<br/>
+
+<li>Seguridad por diseño (Security by Design).</li>
+
+<li>Automatizar antes que repetir.</li>
+
+<li>Entender el sistema antes de protegerlo.</li>
+
+<li>Aprender construyendo y documentando.</li>
 </div>
 
-</br>
+<br/>
 
 ## 🧠 Progreso en Codewars
 
@@ -27,7 +92,7 @@
 <br/>
 
 ## 🌐 Redes Sociales:
-<br />
+<br/>
 
 Actualmente solo utilizo:
 
