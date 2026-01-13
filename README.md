@@ -8,43 +8,42 @@
 
 <p> Mi objetivo es integrar seguridad, automatización y operación desde las primeras fases del desarrollo, alineándome con prácticas DevSecOps: </p>
 
-## 🛠️ Tecnologías y Conocimientos
-
 <br/>
+
+## 🛠️ Tecnologías y Conocimientos
 
 ### Sistemas y Operación
 
-🐧 Administración de sistemas Linux.
+  🐧 Administración de sistemas Linux.
 
-🔧 Automatización y scripting con Bash.
+  🔧 Automatización y scripting con Bash.
 
-📦 Gestión de servicios, permisos, procesos y logs.
+  📦 Gestión de servicios, permisos, procesos y logs.
 
-🧠 Enfoque orientado a estabilidad, observabilidad y hardening.
+  🧠 Enfoque orientado a estabilidad, observabilidad y hardening.
 
-<br/>
+
 
 ### Desarrollo y Automatización
 
-🐍 Python para scripts, tooling y automatización.
+  🐍 Python para scripts, tooling y automatización.
 
-☕ Base sólida en Java y Programación Orientada a Objetos.
+  ☕ Base sólida en Java y Programación Orientada a Objetos.
 
-<br/>
+
 
 ### Seguridad y DevSecOps (en progreso)
 
-🔐 Fundamentos de ciberseguridad aplicada a sistemas y aplicaciones
+  🔐 Fundamentos de ciberseguridad aplicada a sistemas y aplicaciones
 
-🔍 Análisis de logs, detección de comportamientos anómalos
+  🔍 Análisis de logs, detección de comportamientos anómalos
 
-⚙️ Integración de controles de seguridad en flujos automatizados
+  ⚙️ Integración de controles de seguridad en flujos automatizados
 
-📚 Aprendizaje continuo en prácticas DevSecOps
+  📚 Aprendizaje continuo en prácticas DevSecOps
 
-<br/>
 
-#### 📂 Qué encontrarás en este repositorio
+## 📂 Qué encontrarás en este repositorio
 
 <ul>
   <li>Scripts de automatización para administración y seguridad.</li>
@@ -80,7 +79,7 @@ Actualmente solo utilizo:
 <br/>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <br/>
 
