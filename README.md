@@ -2,6 +2,8 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; Tecnologías y Conocimientos:
 
+<br/>
+
 ## Sistemas y Operación
 
   🐧 Administración de sistemas Linux.
@@ -12,7 +14,7 @@
 
   🧠 Enfoque orientado a estabilidad, observabilidad y hardening.
 
-
+<br/>
 
 ## Desarrollo y Automatización
 
@@ -20,7 +22,7 @@
 
   ☕ Base sólida en Java y Programación Orientada a Objetos.
 
-
+<br/>
 
 ## Seguridad (en progreso)
 
