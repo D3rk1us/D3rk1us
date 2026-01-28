@@ -1,10 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
 
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; Sobre Mi:
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; Tecnologías y Conocimientos:
 
-## 🛠️ Tecnologías y Conocimientos
-
-### Sistemas y Operación
+## Sistemas y Operación
 
   🐧 Administración de sistemas Linux.
 
@@ -16,7 +14,7 @@
 
 
 
-### Desarrollo y Automatización
+## Desarrollo y Automatización
 
   🐍 Python para scripts, tooling y automatización.
 
@@ -24,7 +22,7 @@
 
 
 
-### Seguridad (en progreso)
+## Seguridad (en progreso)
 
   🔐 Fundamentos de ciberseguridad aplicada a sistemas y aplicaciones
 
