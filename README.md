@@ -2,14 +2,6 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzYycjFxa2xkdzY5enQzaG1hdHcwcDRqZXY0bXlxMXV4MGViZTJzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif" width="40px">&nbsp; Sobre Mi:
 
-<p>Mi nombre es Erickson Sterling Peña. Actualmente me encuentro en un proceso de transición profesional desde Administración de Sistemas Linux (SysAdmin) hacia un perfil DevSecOps, con foco en automatización, seguridad y operación de aplicaciones modernas.</p>
-
-<p>Cuento con experiencia práctica en entornos Linux, scripting y desarrollo backend, y estoy consolidando conocimientos en seguridad aplicada al ciclo de vida del software (SDLC), infraestructura y pipelines de despliegue.</p>
-
-<p> Mi objetivo es integrar seguridad, automatización y operación desde las primeras fases del desarrollo, alineándome con prácticas DevSecOps: </p>
-
-<br/>
-
 ## 🛠️ Tecnologías y Conocimientos
 
 ### Sistemas y Operación
@@ -32,7 +24,7 @@
 
 
 
-### Seguridad y DevSecOps (en progreso)
+### Seguridad (en progreso)
 
   🔐 Fundamentos de ciberseguridad aplicada a sistemas y aplicaciones
 
@@ -41,23 +33,6 @@
   ⚙️ Integración de controles de seguridad en flujos automatizados
 
   📚 Aprendizaje continuo en prácticas DevSecOps
-
-
-## 📂 Qué encontrarás en este repositorio
-
-<ul>
-  <li>Scripts de automatización para administración y seguridad.</li>
-
-  <li>Herramientas propias orientadas a análisis, monitoreo o hardening.</li>
-
-  <li>Pruebas de concepto relacionadas con seguridad e infraestructura</li>
-
-  <li>Documentación de aprendizaje y buenas prácticas.</li>
-</ul>
-
-<br/>
-
-</div>
 
 <br/>
 
